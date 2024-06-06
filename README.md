@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Joel ALAWENON
-<h2>Joel<h2/>
+<h2 style="display: center;"> Hi there 👋 I'm Joel ALAWENON<h2/>
 
+  <div style="display: center;">
 ![_0171c837-feda-4db5-9f51-6145dff (1)](https://github.com/JoelJoo/joeljoo/assets/114695294/89afe8ba-e9e8-4d6e-8169-cb7921cbe307)
+  </div>
 
 ✨ Data enthusiast/critical thinker. ✨
 
