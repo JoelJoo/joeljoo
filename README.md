@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Joel ALAWENON
 
+![_0171c837-feda-4db5-9f51-6145dff272f9](https://github.com/JoelJoo/joeljoo/assets/114695294/3d98e789-06ee-4f6a-a14d-d7f07b118557)
 
 ✨ Data enthusiast/critical thinker. ✨
 
