@@ -1,5 +1,5 @@
   <h1 class="welcome_message">Hi there 👋 I'm Joel ALAWENON</h1>
-  <img align="center" src="./_0171c837-feda-4db5-9f51-6145dff (1).jpg" alt="analyst_background" class="analyst_background">
+  <img margin="auto" src="./_0171c837-feda-4db5-9f51-6145dff (1).jpg" alt="analyst_background" class="analyst_background">
   <p>-🔭 I'm currently working on Data analysis projects</p>
   <p>- 🌱 I'm currently learning Python, R, Excel, SQL, Tableau, Power BI</p>
   <p>- 👯 I'm looking to collaborate on Data analyse, AI, Back-end Project</p>
