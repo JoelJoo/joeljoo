@@ -39,7 +39,7 @@
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp; 
             <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
             <img src="https://img.shields.io/badge/mint-309638?style=for-the-badge&logo=linuxmint&logoColor=white"/>&nbsp;
-	    <img src="*https://img.shields.io/badge/Window-34A853?style=for-the-badge&logo=microsoft&logoColor=white"/>&nbsp;
+	    <img src="https://img.shields.io/badge/Window-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>&nbsp;
     </div>
     <div align="center">
         <h2>Find me Here 👇</h2>
