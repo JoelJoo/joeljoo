@@ -27,6 +27,7 @@
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp; 
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp; 
             <img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=blue"/>&nbsp; 
+            <img src="https://img.shields.io/badge/PHP-AEB2D5?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp; 
         <h2>📖 What I am currently improving on</h2>
             <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;  
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp; 
