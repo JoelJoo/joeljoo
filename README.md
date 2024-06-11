@@ -49,16 +49,3 @@
     <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
     </p>
-    <style>
-        h1.welcome_message {
-            text-align: center;
-        }
-        img.analyst_background {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        p {
-            margin-left: 10%;
-        }
-    </style>
