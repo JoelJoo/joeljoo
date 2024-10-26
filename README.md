@@ -5,7 +5,8 @@
   </div>
   <!--<img margin="auto" src="./_0171c837-feda-4db5-9f51-6145dff (1).jpg" alt="analyst_background" class="analyst_background">-->
   <p>-🔭 I'm currently working on Data analysis projects</p>
-  <p>- 🌱 I'm currently learning Python, R, Excel, SQL, Tableau, Power BI</p>
+  <p>- 🌱 I'm currently learning R,Tableau</p>
+  <p>- 🌱 I'm still improving on Python, Excel, SQL, Tableau, Power BI</p>
   <p>- 👯 I'm looking to collaborate on Data analyse, AI, Back-end Project</p>
   <p>- 🔍 You can find all my project on https://github.com/JoelJoo</p>
   <p>- 💬 Ask me about Problem solving, Big Data, Marketing strategy</p>
